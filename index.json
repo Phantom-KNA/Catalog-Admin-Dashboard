@@ -8,7 +8,10 @@
       "geo": "23.0819192,-82.4298798?q=Visual World",
       "expired": "2050-01-01",
       "owner": "Airalde",
-      "contact_phone": "[53302142, 53312044]"
+      "contact_phone": {
+        "second": 53312044,
+        "first": 53302142
+      }
     },
     {
       "name": "Yiya & Studios",
@@ -18,7 +21,10 @@
       "geo": "23.0819192,-82.4298798?q=Visual World",
       "expired": "2050-01-01",
       "owner": "Randy",
-      "contact_phone": "[59099850, 52014165]"
+      "contact_phone": {
+        "first": 52014165,
+        "second": 59099850
+      }
     }
   ]
 }
