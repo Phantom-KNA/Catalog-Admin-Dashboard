@@ -1,15 +1,24 @@
 {
-    "visualworld": [
-      {
-        "id": "1",
-        "contact_phone": {
-          "53302142",
-          "53312044"
-        },
-        "times": "11am - 7pm Lun, Mar, Mie, Jue, Sab, Dom",
-        "group_url": "https://chat.whatsapp.com/H8gTlr7QBSLD8Fm0jkZlBr",
-        "geo":"23.0819192,-82.4298798?q=Visual World",
-        "expired":"2050-01-01"
-      }
-    ]
+  "business": [
+    {
+      "name": "Visual World",
+      "id": "1",
+      "times": "11am - 7pm Lun, Mar, Mie, Jue, Sab, Dom",
+      "group_url": "https://chat.whatsapp.com/H8gTlr7QBSLD8Fm0jkZlBr",
+      "geo": "23.0819192,-82.4298798?q=Visual World",
+      "expired": "2050-01-01",
+      "owner": "Airalde",
+      "contact_phone": "[53302142, 53312044]"
+    },
+    {
+      "name": "Yiya & Studios",
+      "id": "2",
+      "times": "10:30am - 8pm",
+      "group_url": "https://chat.whatsapp.com/L1loTUM0csd17aGnh0XZfP",
+      "geo": "23.0819192,-82.4298798?q=Visual World",
+      "expired": "2050-01-01",
+      "owner": "Randy",
+      "contact_phone": "[59099850, 52014165]"
+    }
+  ]
 }
